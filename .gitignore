@@ -1,0 +1,32 @@
+# Sistema / editor
+.DS_Store
+Thumbs.db
+
+# Configuración sensible del proyecto (ya lo hemos subido antes)
+config/db.php
+.env
+
+# Base de datos / backups
+*.sql
+*.dump
+
+# Subidas de usuarios
+uploads/
+
+# Logs
+*.log
+
+
+#Archivos temporales
+*.tmp
+*.swp
+
+# Dependencias (composer)
+vendor/
+
+# GitHub y CI
+.github/
+
+# Test o basura
+tests/
+node_modules/
