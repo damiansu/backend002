@@ -1,3 +1,3 @@
 <?php
-    echo "<h1>Hemos terminado</H1>"
+    echo "<h1>Hemos terminado, nos vemos</H1>"
 ?>
