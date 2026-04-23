@@ -24,9 +24,6 @@ uploads/
 # Dependencias (composer)
 vendor/
 
-# GitHub y CI
-.github/
-
 # Test o basura
 tests/
 node_modules/
